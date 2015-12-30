@@ -1,0 +1,11731 @@
+CREATE TABLE part_time_employment(
+LOCATION VARCHAR(5),
+INDICATOR VARCHAR(20),
+SUBJECT VARCHAR(10),
+MEASURE VARCHAR(20),
+FREQUENCY VARCHAR(5),
+TIME DECIMAL(10, 2),
+Value DECIMAL(10, 2),
+Flag_Codes VARCHAR(5)
+);
+
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUS', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 2001, 23.7588616275597, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUS', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 2002, 24.0278054702807, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUS', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 2003, 24.3208995631173, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUS', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 2004, 23.7687720244929, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUS', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 2005, 23.995148292314, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUS', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 2006, 23.9303353491081, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUS', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 2007, 23.7322899011103, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUS', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 2008, 23.759551599861, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUS', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 2009, 24.5986349881482, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUS', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 2010, 24.8453082352086, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUS', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 2011, 24.6601542343988, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUS', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 2012, 24.5530192461662, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUS', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 2013, 24.8652856854428, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUS', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 2014, 25.1595559348748, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUT', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 1995, 11.0984973904765, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUT', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 1996, 10.9013181865194, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUT', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 1997, 10.7720843710453, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUT', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 1998, 11.4952290661587, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUT', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 1999, 12.2888994066321, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUT', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 2000, 11.7456895558189, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUT', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 2001, 12.6809595163904, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUT', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 2002, 13.3048220708398, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUT', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 2003, 13.6831766212456, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUT', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 2004, 15.3349074687752, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUT', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 2005, 16.4309884796083, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUT', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 2006, 16.9588463749308, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUT', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 2007, 17.3453525465177, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUT', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 2008, 17.8415867024929, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUT', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 2009, 18.6880208699726, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUT', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 2010, 19.1669907692185, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUT', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 2011, 19.0152489023594, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+LOCATION, INDICATOR, SUBJECT, MEASURE,
+FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+(
+'AUT', 'PARTEMP', 'TOT', 'PC_EMP',
+'A', 2012, 19.4366207285099, ''
+);
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'AUT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 19.8635559789831, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'AUT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 20.9392366772326, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1983, 9.75887045697726, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1984, 10.767511962028, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1985, 11.5328941239433, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1986, 11.655011228963, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1987, 12.4988796443925, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1988, 12.7259074823052, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1989, 12.9997955728112, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1990, 13.5145063503189, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1991, 14.617625253121, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1992, 14.3387282171771, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1993, 14.6640264682297, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 14.6211100593629, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 14.5622677364854, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 14.7906596456466, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 15.0446017878237, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 15.5989089070752, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 19.9016753263246, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 19.2627704191688, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 17.5876659317248, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 17.5977517549831, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 18.2994503795005, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 18.5392130344114, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 18.5223392163141, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 18.6634842723919, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 18.0841783618975, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 18.3171558042534, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 18.2441149554318, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 18.3210441670143, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 18.7932978482878, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 18.6717835454242, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 18.2125090897623, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BEL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 18.1264495434547, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1976, 12.509758803468, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1977, 13.040404040404, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1978, 13.2226949242261, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1979, 13.7687281739326, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1980, 14.2941755357924, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1981, 14.8233106013639, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1982, 15.9242486620008, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1983, 16.7894215836747, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1984, 16.7531616422828, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1985, 17.0882644059044, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1986, 16.948982743795, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1987, 16.6498961308751, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1988, 16.8169397831342, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1989, 16.6411320435141, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1990, 16.9684918935454, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1991, 18.1433318547226, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1992, 18.5586463918985, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1993, 19.2178281350256, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 18.9450131796726, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 18.801198650765, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 19.0969376350496, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 19.1028446389497, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 18.809201623816, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 18.385058668333, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 18.0998848004337, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 18.1128535444432, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 18.7675840261501, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 18.9669934876719, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 18.5359812404722, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 18.4178848005048, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 18.179488063824, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 18.3003300569852, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 18.5642093830424, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 19.2916965482244, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 19.563435106464, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 19.2909977415235, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 18.9602744399063, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 19.0984926915581, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CAN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 19.2901901430088, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CZE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1993, 3.62543451859239, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CZE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 3.60118804934074, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CZE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 3.44942066441542, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CZE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 3.41229530754246, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CZE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 3.40929788378558, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CZE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 3.30577382404859, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CZE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 3.38484838580942, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CZE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 3.22665197206974, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CZE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 3.23460472130764, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CZE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 2.91173429002532, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CZE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 3.17646363126333, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CZE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 3.0775806796324, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CZE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 3.26670245576362, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CZE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 3.309562915663, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CZE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 3.48055594990493, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CZE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 3.46559452066745, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CZE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 3.88306609849168, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CZE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 4.31762412316815, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CZE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 3.90030558565554, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CZE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 4.33619022125118, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CZE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 4.89790443127817, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CZE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 4.7586844018493, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1983, 20.5583231371569, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1984, 21.1653554618024, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1985, 20.3202665809528, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1986, 19.6274450169006, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1987, 19.8666605498782, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1988, 18.9874821036032, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1989, 18.876407453021, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1990, 19.1550652036588, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1991, 18.7078078549984, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1992, 18.9169218813719, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1993, 18.9720392435207, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 17.3090414023097, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 16.8881202658684, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 16.6072169393061, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 17.1781088209815, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 17.1122135568016, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 15.2782650661903, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 15.2895453110208, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 14.842580858137, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 15.4926029890907, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 16.158274626588, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 17.0486973050347, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 17.3498707740392, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 17.8737456745272, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 17.2745925834203, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 17.8186443960867, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 18.7752564634759, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 19.1536150644316, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 19.2042705629712, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 19.3795721967897, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 19.2030451598796, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DNK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 19.6960268609654, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FIN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1989, 7.74505849132715, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FIN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1990, 7.58676351896691, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FIN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1991, 7.93854033290653, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FIN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1992, 8.14917127071823, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FIN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1993, 8.93909626719057, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FIN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 8.93300248138958, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FIN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 8.69140625, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FIN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 8.48192771084337, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FIN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 9.32714617169374, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FIN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 9.67887833559476, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FIN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 9.87275120666959, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FIN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 10.3626943005181, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FIN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 10.4904051172708, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FIN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 11.0403397027601, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FIN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 11.3239676458067, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FIN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 11.2991959373678, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FIN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 11.2036651395252, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FIN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 11.4074681986048, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FIN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 11.7051437829081, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FIN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 11.4956245027844, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FIN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 12.2387204974025, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FIN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 12.4845894633024, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FIN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 12.7048013985445, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FIN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 12.9797570850202, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FIN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 13.0363577368163, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FIN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 13.3185349362667, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1983, 10.3037178704493, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1984, 11.2486694226724, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1985, 11.6560695249837, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1986, 12.6113556721661, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1987, 12.5440662534821, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1988, 12.562318559697, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1989, 12.1485381513396, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1990, 12.1695642884248, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1991, 12.0388398824007, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1992, 12.550407084445, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1993, 13.1908074407757, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 13.7985690518382, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 14.1530740069836, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 14.0450664518124, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 14.7656293516138, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 14.6849915755889, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 14.5601247034111, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 14.2495341317878, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 13.7893365778176, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 13.8324511265659, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 12.9822567116215, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 13.266471862348, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 13.191641376444, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 13.2125175620665, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 13.2887846823748, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 12.9258179159573, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 13.3413309868321, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 13.5627561267671, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 13.5557034447618, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 13.7378520664948, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 13.9876027924941, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'FRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 14.1692232106483, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1983, 13.3709995692289, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1984, 11.0332305611969, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1985, 10.9708793518554, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1986, 11.2232184992921, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1987, 10.9697214980188, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1988, 11.3829343951109, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1989, 11.5845648604269, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1990, 13.4219549628874, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1991, 11.8361904717939, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1992, 12.25415363641, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1993, 12.8332805407038, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 13.5047243022169, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 14.244065011502, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 14.8939324526812, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 15.8189144153311, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 16.5962121708293, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 17.1408449968641, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 17.580980531338, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 18.2940073253211, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 18.7760512384572, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 19.5640809444855, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 20.0967026743509, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 21.4616768384093, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 21.8426650007676, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 21.9790157350958, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 21.7833619882137, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 21.8577454850796, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 21.7072480820765, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 22.2665057615855, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 22.2352572191518, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 22.5695482957294, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'DEU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 22.3276330976478, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1983, 7.24092660470363, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1984, 6.99757453080277, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1985, 5.93993410654754, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1986, 6.79408747207245, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1987, 6.525489601633, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1988, 7.01241101691361, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1989, 6.63565363721093, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1990, 6.6973938774433, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1991, 6.87566797304807, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1992, 7.20262347212561, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1993, 7.12930195965392, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 7.83829857029172, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 7.78822458184362, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 8.00585691362662, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 8.31523533228351, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 9.06859950560307, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 7.96545550318283, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 5.34482625983894, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 4.70479346417196, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 5.37859970485099, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 5.60115429876449, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 5.89514954564517, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 6.38276735768611, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 7.43196451288423, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 7.69335355114846, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 7.93389704328765, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 8.50481646985834, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 8.90688985147817, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 9.08516416828992, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 9.78649283534155, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 10.3265692988038, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GRC', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 11.1528606889407, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HUN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 2.83780479489482, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HUN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 2.74765639532096, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HUN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 2.90979903590361, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HUN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 3.19376972467644, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HUN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 3.18517784949261, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HUN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 2.85498082120766, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HUN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 2.51844933157965, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HUN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 2.61876924112764, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HUN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 3.1983428550896, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HUN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 3.25546433301604, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HUN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 3.24952023903702, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HUN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 2.68481435240257, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HUN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 2.81334743163864, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HUN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 3.11723277648943, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HUN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 3.54803789122812, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HUN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 3.67250723132888, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HUN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 4.78491865317771, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HUN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 4.78049717648568, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HUN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 4.59748347627263, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HUN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 4.2322813193276, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1991, 22.1724017059064, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1992, 22.126117702063, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1993, 22.4222993251058, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 22.5749290107991, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 22.4929821839162, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 20.8896273506199, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 22.4224844405644, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 23.216036237028, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 21.2214288043301, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 20.4119874139828, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 20.3682046251933, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 20.0940482874789, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 15.962531064806, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 16.5710260023056, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 16.3778512130249, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 15.9893388683162, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 15.8939500775631, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 15.104356250455, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 17.4811794789264, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 18.3605381165919, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 16.9733711183652, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 17.314614026761, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 17.4384220334903, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 16.7494725903689, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1983, 8.02472548635328, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1984, 7.93126595455466, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1985, 8.06371436461309, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1986, 8.33131866061571, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1987, 9.00006040314021, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1988, 9.62975016099114, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1989, 9.38627152327975, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1990, 9.99458817265024, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1991, 10.4227800102089, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1992, 11.2569722643497, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1993, 13.0864763851138, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 13.4745974587478, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 14.3419071061331, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 14.2442294877519, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 14.9915815544039, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 17.6351651636116, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 17.8825304293853, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 18.0760370328317, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 18.1684046376231, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 18.4444428409503, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 18.8712558850744, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 18.8726976351637, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 19.3299309174235, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 19.3161601967712, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 19.8964309924773, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 20.9005838246353, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 23.8131142250968, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 24.8645780019491, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 25.6752996722958, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 25.0227976780336, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 24.2280443949512, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'IRL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 23.4070501739486, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1983, 8.03942925690349, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1984, 7.81344272289142, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1985, 7.9007970241043, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1986, 8.06698763753538, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1987, 8.47080808365503, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1988, 8.58896881328899, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1989, 9.04773333190503, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1990, 8.88039270426832, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1991, 9.01154906597862, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1992, 9.97694400314155, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1993, 10.0334299343982, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 10.0269271301208, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 10.5429788727293, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 10.4983215004285, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 11.2641138888628, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 11.1894458161307, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 11.7984983501765, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 11.7062351164267, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 11.7377210666518, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 11.6106734297658, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 11.6875096036208, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 14.7835819160781, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 14.6601285835963, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 15.0306746388356, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 15.2742801738221, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 15.9625541185759, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 15.8912599286033, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 16.3652780855819, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 16.6595608323075, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 17.783239644858, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 18.5158977053868, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ITA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 18.8233538885089, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1980, 11.0806897100175, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1981, 11.0301751593294, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1982, 11.1974709990451, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1983, 11.3589886937486, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1984, 11.5658410904635, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1985, 11.7247547794172, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1986, 11.8355282522834, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1987, 11.7334021958249, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1988, 11.9513716765615, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1989, 12.4293635261077, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1990, 13.5657725807349, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1991, 14.0821783908601, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1992, 14.4246544134623, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1993, 14.8536802270865, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 15.0980463802007, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 14.1716175833848, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 15.3815133249084, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 16.408995621494, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 16.6200066081603, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 17.0242720614505, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 15.9471501779519, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 17.5664127752674, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 17.7221324717286, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 18.1641573579408, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 18.1024729271052, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 18.25946817083, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 17.9557124518614, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 18.8567779019639, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 19.5544157717583, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 20.2614379084967, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 20.2425831830847, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 20.5700549450549, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 20.5111402359109, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 21.8851924331376, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'JPN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 22.7494312642184, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'KOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1989, 5.2197220887077, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'KOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1990, 4.49305575122471, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'KOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1991, 4.51341605392653, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'KOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1992, 4.75454216600348, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'KOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1993, 4.4884320488897, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'KOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 4.48849375410013, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'KOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 4.33557886471274, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'KOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 4.33249019898582, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'KOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 5.01848309329398, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'KOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 6.72847550330307, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'KOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 7.67877975135959, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'KOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 7.02269035171931, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'KOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 7.34342294870618, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'KOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 7.56902595217095, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'KOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 7.71744611377674, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'KOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 8.36352847034283, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'KOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 8.96873529333416, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'KOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 8.80343377715487, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'KOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 8.86004758814622, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'KOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 9.3205387495159, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'KOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 9.94339051899226, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'KOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 10.6544446813046, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'KOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 13.4988792908051, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'KOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 10.2047290810882, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'KOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 11.1105252665054, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'KOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 10.4567379223101, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1983, 7.27039816327856, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1984, 6.95830514946387, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1985, 7.24343354900952, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1986, 7.30166789341177, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1987, 8.067984037879, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1988, 7.16158923279328, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1989, 7.55641704399242, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1990, 7.60891388646445, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1991, 8.76036704706484, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1992, 9.47732019909876, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1993, 9.84914989741241, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 10.6952946650907, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 11.3308569922604, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 10.4439685471676, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 11.0218626513419, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 12.6157427925161, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 12.1375712526211, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 12.9652832843085, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 13.1455231686402, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 12.5320732277574, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 13.2897857034453, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 13.2177343532565, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 13.8657194937121, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 12.6551813783345, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 13.0906460230028, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 13.4039892998406, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 16.427724092863, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 15.7849943681351, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 16.0117494226754, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 15.4547384373906, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 15.2631276563535, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LUX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 15.469431715912, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MEX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 16.6148971086923, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MEX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 14.9232125436557, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MEX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 15.5143737454778, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MEX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 14.9745505228841, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MEX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 13.6806624806241, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MEX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 13.4529796498085, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MEX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 13.7411563398068, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MEX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 13.5158337240492, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MEX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 13.4486993411787, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MEX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 15.0592380674982, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MEX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 16.809647754179, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MEX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 16.9599791893952, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MEX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 17.563148703069, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MEX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 17.5817605902431, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MEX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 17.9414170639026, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MEX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 18.8513902085717, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MEX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 18.2107952884616, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MEX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 19.4308552362151, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MEX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 18.9756282226258, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MEX', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 18.659534873812, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1983, 18.5362301871157, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1985, 19.5349505663486, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1987, 26.3604573428926, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1988, 26.9218471176532, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1989, 27.7367190259885, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1990, 28.1500429184179, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1991, 28.5887244368615, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1992, 27.3297923939786, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1993, 27.8684266293785, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 28.8763198665807, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 29.4329076751348, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 29.3425489240347, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 29.1328648868735, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 30.0446232338942, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 30.3983053977289, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 32.0655492300204, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 32.6224216724102, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 33.9280285721012, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 34.5086268805268, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 35.0353421457986, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 35.5709759666719, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 35.355700789483, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 35.9249423663571, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 36.0590351609215, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 36.6695556225629, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 37.1454478163456, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 37.176178674033, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 37.7754057034568, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 38.6723676750179, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NLD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 38.4541602399789, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1986, 16.6426827562154, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1987, 17.4338822195992, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1988, 18.2326838389456, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1989, 18.604342428507, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1990, 19.6523799557508, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1991, 20.6232445295222, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1992, 20.9535256278801, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1993, 20.676593621508, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 20.9735953700474, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 20.8764273786091, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 21.8350217467171, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 22.2376170908948, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 22.6968904589728, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 22.9014650302119, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 22.1632308812846, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 22.3087896434288, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 22.5140613511712, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 22.1256338951302, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 21.833714117897, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 21.5579272548013, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 21.1801094733677, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 21.8838393774144, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 22.1041195096148, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 22.4173308635112, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 21.8430360783759, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 22.0978029394596, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 22.3171485376576, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 21.6479925415865, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NZL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 21.4965435798548, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1989, 21.7543859649123, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1990, 21.7806841046278, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1991, 22.0424671385238, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1992, 22.1153846153846, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1993, 22.0373171961674, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 21.5064420218038, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 21.3766359670383, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 21.6203485633537, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 20.970695970696, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 20.7960644007156, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 20.6927175843694, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 20.2122954444936, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 20.1149425287356, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 20.5648720211827, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 20.987105380169, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 21.0736468500444, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 20.7591587427654, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 21.1146752068975, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 20.4385158997539, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 20.2790942685174, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 20.3938366589654, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 20.1079913433921, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 19.9913975402811, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 19.8281839940112, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 19.5443426889649, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'NOR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 18.8004537183244, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'POL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 11.8882349628295, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'POL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 11.814994942567, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'POL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 13.9634054569301, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'POL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 12.836514041071, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'POL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 11.5907538707429, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'POL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 11.6766553960906, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'POL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 11.5070243594357, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'POL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 12.0425945256321, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'POL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 11.7186171720034, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'POL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 10.846742139744, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'POL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 10.0679156140293, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'POL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 9.25249558485621, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'POL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 8.65888165564876, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'POL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 8.71959258589044, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'POL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 8.31780385302471, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'POL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 8.04846914229632, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'POL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 7.72328995718759, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'POL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 7.10358741244993, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1986, 7.47406296785909, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1987, 7.36382490811628, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1988, 7.780845864167, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1989, 8.01545524480887, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1990, 7.62049398120352, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1991, 8.79781968201097, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1992, 8.79009067073184, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1993, 8.80295595431694, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 9.48601503220929, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 8.61426719692359, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 9.231416221122, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 10.2124946867966, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 9.95201059269741, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 9.40441247726343, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 9.34444006797318, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 9.27234712832324, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 9.67536900855164, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 9.97012579038062, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 9.77097264917629, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 9.5789059251376, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 9.44912477083081, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 10.0416852939445, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 9.92548593594088, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 9.80023963417191, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 9.57289310198109, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 11.6969679640339, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 12.4737844794309, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 11.993442738818, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'PRT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 10.9722089808298, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 2.68619084561676, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 2.30834995725278, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 2.11695852955969, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 1.95799706529714, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 1.98129290881445, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 1.78605448656887, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 1.85337130170375, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 1.90244600200257, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 1.59215873774803, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 2.15184544136221, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 2.58620689655172, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 2.39069175529497, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 2.37699903871362, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 2.39018363086362, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 2.60384376937384, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 2.94030167835139, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 3.65604486371343, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 3.99808576197265, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 3.7855845136661, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 4.30288151014916, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVK', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 4.86119940214462, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ESP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1987, 5.0354737057481, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ESP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1988, 4.99290119400769, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ESP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1989, 4.5087572957435, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ESP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1990, 4.63536560534738, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ESP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1991, 4.4297876407155, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ESP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1992, 5.32527096058526, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ESP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1993, 6.01127704236689, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ESP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 6.40747754165483, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ESP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 6.97743727936248, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ESP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 7.48774114873276, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ESP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 7.85922240024326, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ESP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 7.65642963567268, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ESP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 7.82266003641467, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ESP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 7.54426031377427, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ESP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 7.61672677205447, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ESP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 7.55674907527134, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ESP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 7.76783250761653, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ESP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 8.29445325977608, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ESP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 10.8045048277519, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ESP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 10.6800019396931, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ESP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 10.528486448222, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ESP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 10.8874255130568, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ESP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 11.6269692165629, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ESP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 12.1600262194371, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ESP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 12.6582080442512, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ESP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 13.5741963342091, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ESP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 14.7316913555119, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ESP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 14.7067765662546, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SWE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1987, 16.8490102452367, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SWE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1988, 15.9754926615152, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SWE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1989, 15.163454610951, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SWE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1990, 14.4838659322525, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SWE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1991, 14.5730015014332, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SWE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1992, 14.9802766028231, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SWE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1993, 15.4141220410841, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SWE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 15.7582243967077, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SWE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 15.1245104930214, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SWE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 14.7616762231933, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SWE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 14.213807552762, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SWE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 13.4551032181318, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SWE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 14.4965621335667, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SWE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 14.0448084798844, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SWE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 13.8802075742757, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SWE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 13.8202167599348, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SWE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 14.0524422567209, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SWE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 14.4327446459556, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SWE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 13.5328010226381, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SWE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 13.4291846484041, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SWE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 14.3561528450556, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SWE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 14.372426089786, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SWE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 14.648920495992, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SWE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 14.4971371339431, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SWE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 14.3128212570641, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SWE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 14.2607172220237, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SWE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 14.2854098988426, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SWE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 14.2244124469463, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1991, 22.6763595780619, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1992, 23.5444880105049, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1993, 24.2795492858351, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 23.8651528736573, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 23.6995123866114, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 25.004490120922, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 24.052959366943, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 24.2527513870722, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 24.8288633562045, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 24.3666517181752, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 24.775124283658, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 24.761809686791, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 25.1082882696986, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 24.849715570172, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 25.0835392985208, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 25.5073953326268, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 25.3836272436798, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 25.9112951580143, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 26.4772751889677, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 26.1391819565114, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 25.8552997798768, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 26.0408267847653, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 26.3520077304998, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHE', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 26.9205149299351, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'TUR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1988, 8.17659646356572, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'TUR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1989, 9.61068890778896, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'TUR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1990, 9.33336928968232, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'TUR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1991, 11.2027170672267, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'TUR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1992, 11.6244411326379, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'TUR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1993, 8.86240168653207, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'TUR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 8.81779555111222, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'TUR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 6.40256491219548, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'TUR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 5.51558187265564, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'TUR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 6.14891309473287, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'TUR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 6.03576922193907, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'TUR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 7.70626389077879, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'TUR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 9.35168450808656, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'TUR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 6.23983645402593, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'TUR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 6.59798642004214, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'TUR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 6.02478010025537, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'TUR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 6.11818644931228, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'TUR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 5.58572923414221, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'TUR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 7.59400705052879, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'TUR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 8.05844907407408, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'TUR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 8.54999292219129, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'TUR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 11.1158112427148, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'TUR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 11.4754823862631, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'TUR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 11.7451891174519, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'TUR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 11.8462406317995, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'TUR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 12.2556125847275, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'TUR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 10.6115524022519, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1983, 18.4283549745648, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1984, 19.5675099765232, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1985, 19.6713362766087, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1986, 20.2023668172302, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1987, 20.8128107373331, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1988, 20.5181330679234, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1989, 20.2142341799522, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1990, 20.1074871929179, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1991, 20.6974871527721, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1992, 21.5188210190974, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1993, 22.1273704430791, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 22.39136502215, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 22.3203933956276, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 22.8930412096088, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 22.8990439630144, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 22.9795619055346, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 22.9465856028974, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 23.2962701624766, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 22.7031038724119, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 23.0686624376506, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 23.3594248396688, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 23.4484093169737, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 22.9872144330638, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 23.1500319429085, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 22.9304847550224, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 22.99604857503, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 23.9262765238373, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 24.6314368552693, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 24.6667169282229, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 24.9706800304473, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 24.6390859432868, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'GBR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 24.0979770426274, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1976, 12.509758803468, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1977, 13.040404040404, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1978, 13.2226949242261, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1979, 13.9993205269231, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1980, 13.2104874188979, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1981, 13.2101898439558, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1982, 13.8683818582027, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1983, 13.6130464714475, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1984, 13.3394954263169, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1985, 13.4055331511489, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1986, 13.6453396126386, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1987, 13.6375342139144, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1988, 13.6762706435563, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1989, 13.7543013913951, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1990, 14.0872631236188, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1991, 14.2594269019912, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1992, 14.6135953875406, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1993, 14.9315633178117, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 14.9194165642305, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 14.8025342833562, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 15.1689742682737, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 15.4709071790251, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 15.5102865774043, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 15.6212124078206, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 15.1590397721069, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 15.5442176477498, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 15.8078898145562, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 16.0081229197669, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 16.2858489675525, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 16.239130547706, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 16.1415794800975, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 16.342918618322, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 16.5847419834865, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 17.4534790966054, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 17.4168546162202, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 17.0703043031648, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 17.5854835872095, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 17.3905241075217, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'G7M', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 17.4974659504572, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 16.8228165705744, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 17.9132491708019, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 18.0077694965012, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 18.2299337811785, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 18.9951366292292, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 19.1630056224534, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 18.2685088692417, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 17.9821894005213, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 17.7710517781861, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 15.9778026786191, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 16.2186840751897, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BRA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 16.3824105415821, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BGR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 2.04102967464674, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BGR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 3.03125905117075, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BGR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 2.46222363354537, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BGR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 2.77198360412965, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BGR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 2.54082872317834, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BGR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 2.14778275670694, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BGR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 1.88399377456975, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BGR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 1.56466187445039, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BGR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 1.48670641325344, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BGR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 1.57594918076973, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BGR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 1.75376303436194, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BGR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 1.8165059704764, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BGR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 1.91353687256099, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BGR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 2.12563435230379, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'BGR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 2.06155185118978, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 4.52973821174565, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 4.7049091606868, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 4.09483712315056, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 4.6250758330298, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 4.72338976905897, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 5.55762901287087, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 5.21918285345663, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 5.66805594036016, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 6.57390163619451, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 7.15179322992168, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 7.65897573489345, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 8.04103361521192, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 9.13184430486724, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 10.4980560180118, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 17.4201838250488, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 17.2335297184782, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 16.6559577519616, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 16.5433716565871, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CHL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 17.0009235588707, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HRV', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 5.91572540345186, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HRV', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 5.6171013205297, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HRV', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 5.73784076339628, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HRV', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 6.79109494976996, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HRV', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 7.02883911512899, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HRV', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 6.00708027776162, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HRV', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 5.74961137464977, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HRV', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 5.95248751714822, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HRV', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 6.38837653255046, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HRV', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 6.64661048273727, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HRV', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 5.2576625613134, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HRV', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 4.82616266850958, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'HRV', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 4.76828969638331, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CYP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 7.57616346782663, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CYP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 7.96248422618875, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CYP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 7.13413178961842, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CYP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 8.55665129161928, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CYP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 7.33829562780026, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CYP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 7.37642135381476, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CYP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 6.79932904114548, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CYP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 6.48785174306952, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CYP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 6.8122184857515, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CYP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 7.44054416886508, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CYP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 7.92431815846586, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CYP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 8.67470443008214, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CYP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 8.95113894466958, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CYP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 9.96744809053307, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'CYP', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 10.9500830746494, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EST', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 7.24965270565389, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EST', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 7.40422908756023, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EST', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 7.23833543497484, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EST', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 7.79690971157662, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EST', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 7.15000121120927, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EST', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 6.86878299405844, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EST', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 6.76864672050571, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EST', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 6.80814176144579, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EST', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 6.27725789106819, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EST', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 8.49139995580816, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EST', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 8.82065022712046, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EST', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 8.94574459637772, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EST', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 8.24131684760947, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EST', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 8.02887993060185, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EST', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 7.61812084904402, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 14.4689824095916, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 14.240965996924, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 13.3746726831687, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 14.4395509137255, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 14.7909324108912, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 14.5991147493044, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 15.2936658114853, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 15.4611782649996, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 15.2714512342329, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 15.2048807852836, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 15.1492427553145, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 15.1881772212033, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 14.7829697574809, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 14.6680978396613, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 14.8152443883479, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 13.9770671889113, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 13.6519481986464, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 14.981284725332, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 14.4415416025948, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ISR', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 14.6608891980543, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LVA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 8.82801726075796, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LVA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 8.54890950183827, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LVA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 8.46127497031274, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LVA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 7.69394040549982, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LVA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 8.22110123180786, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LVA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 6.74308926058584, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LVA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 5.32214890629367, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LVA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 5.3716608075447, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LVA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 6.01987389069493, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LVA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 7.36407384122552, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LVA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 8.16708089096764, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LVA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 8.00394687902077, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LVA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 8.34228276410596, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LVA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 7.64517348944947, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LVA', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 6.55896448735215, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LTU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 11.8035677190634, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LTU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 12.2862653270186, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LTU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 12.8676830654124, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LTU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 11.2268305542578, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LTU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 9.84050456256302, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LTU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 8.7803040229268, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LTU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 7.64416937333822, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LTU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 7.01654768170509, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LTU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 5.36696621085578, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LTU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 6.61431541173809, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LTU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 7.49875632275639, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LTU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 8.63863273774624, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LTU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 9.17067210039784, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LTU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 8.56446689428565, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'LTU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 8.65211083753562, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MKD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 3.87209068531364, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MKD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 4.72992266311021, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MKD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 4.24103997403292, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MKD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 4.23384292330715, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MKD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 4.41078995540446, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MKD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 4.71785926971064, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MKD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 5.14338063931399, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MKD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 3.43460345072233, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MKD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 4.23419108339357, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MLT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 6.77267659258029, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MLT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 8.6058270750058, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MLT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 8.20422001307364, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MLT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 8.55842716520826, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MLT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 8.84146025696358, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MLT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 9.03877174575867, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MLT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 8.80155512687732, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MLT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 9.33109421925505, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MLT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 9.26168721710185, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MLT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 9.55001449273929, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MLT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 10.5174634758182, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MLT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 11.4311022339004, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MLT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 11.5758659429266, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MLT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 11.8479729991988, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'MLT', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 12.9343468161007, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ROU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 7.50433024281077, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ROU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 7.32450465684937, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ROU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 5.54924349604865, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ROU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 5.33010821578649, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ROU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 5.16274376946146, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ROU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 4.63613954771433, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ROU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 4.08773679545122, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ROU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 4.18485345720138, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ROU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 3.98512048173977, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ROU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 4.24743950836976, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ROU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 4.75402157985386, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ROU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 3.90013669888146, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ROU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 4.12230395692575, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ROU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 4.22887958153634, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ROU', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 3.80685258178226, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'RUS', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1992, 5.19967643547684, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'RUS', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1993, 4.24959094541951, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'RUS', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 4.72682418111533, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'RUS', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 4.56660144498085, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'RUS', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 4.34072718046162, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'RUS', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 4.36827465304839, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'RUS', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 4.61373492230829, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'RUS', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 8.18764323748599, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'RUS', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 7.36482219798523, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'RUS', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 5.21352655853533, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'RUS', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 3.79027928485007, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'RUS', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 5.32696380851955, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'RUS', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 5.41735330813644, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'RUS', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 5.63267779148266, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'RUS', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 5.29439125883871, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'RUS', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 5.0841321040438, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'RUS', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 4.96309433754033, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'RUS', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 4.73343210807132, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'RUS', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 4.25083560204136, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'RUS', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 4.05768466359845, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'RUS', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 4.11007460576946, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'RUS', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 4.30355287383597, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'RUS', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 4.013287184485, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 4.94384360171341, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 4.79575697256136, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 4.92423956976687, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 4.97612664008512, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 7.52800205323468, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 7.39309987777358, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 7.79556993576879, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 7.83138654145677, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 7.49507735728079, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 8.33260315279654, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 9.44514857158849, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 8.61201096523267, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 7.92560923028854, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 8.57546057794601, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'SVN', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 9.59048983553238, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ZAF', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 7.92318042591815, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ZAF', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 8.06296034076027, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ZAF', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 7.7390697037051, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ZAF', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 7.37889013579977, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ZAF', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 7.71980309841922, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ZAF', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 8.28342994219297, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'ZAF', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 8.03596495378101, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1976, 12.509758803468, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1977, 13.040404040404, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1978, 13.2226949242261, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1979, 13.9993205269231, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1980, 13.2104874188979, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1981, 13.2101898439558, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1982, 13.8683818582027, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1983, 13.6041489143209, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1984, 13.2655486349572, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1985, 13.4359544514663, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1986, 13.484910215978, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1987, 13.4716949645559, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1988, 13.2144311827643, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1989, 12.9399834795275, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1990, 13.1538699470561, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1991, 13.5213328190019, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1992, 13.8534948057468, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1993, 13.886119931811, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 13.8274272985492, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 13.7149611071377, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 13.7042012154689, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 13.9727948313933, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 14.0787794002456, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 14.2790168924189, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 13.9170925846051, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 14.2063236583585, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 14.411238218094, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 14.5722185697965, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 14.9865819333648, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 15.2049419084719, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 15.2125157396725, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 15.3990539642729, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 15.6098132932204, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 16.4120973192491, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 16.6329988869786, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 16.535782942074, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 16.8675310389375, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 16.819144568499, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'OECD', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 16.7291992417727, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1983, 12.8399435249748, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1984, 12.4544176459662, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1985, 12.8874958649032, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1986, 12.7876130934712, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1987, 13.0275185869427, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1988, 13.0984498126183, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1989, 12.9819642569477, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1990, 13.3208332554108, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1991, 13.0876574625873, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1992, 13.6159196747647, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1993, 13.7985376524703, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 14.0622050209316, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 14.0218383105614, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 14.2784964616834, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 14.5449994159456, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 14.7595372124373, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 15.1830860301073, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 15.0199468314803, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 14.8941466986034, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 15.1144111549254, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 15.2666270424579, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 15.9335753520106, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 16.3609381275595, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 16.4345200557508, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 16.4518102598704, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 16.4672260133263, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 16.8717015327884, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 17.1813173002539, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 17.4483941889789, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 17.8148778943279, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 18.0962783870184, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU21', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 17.9640721686923, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1983, 12.8399435249748, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1984, 12.4544176459662, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1985, 12.8874958649032, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1986, 12.7876130934712, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1987, 13.0275185869427, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1988, 13.0984498126183, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1989, 12.9819642569477, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1990, 13.3208332554108, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1991, 13.0960729238252, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1992, 13.6238878436912, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1993, 13.8064408761019, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1994, 14.228004359101, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1995, 14.1863824589688, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1996, 14.4528913456497, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1997, 14.710005155428, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1998, 14.9242821242156, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 1999, 15.3462971272715, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2000, 14.8341183289587, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 14.7134758708386, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 14.7970330166047, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 14.9366565322713, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 15.5312263499826, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 15.9256652342914, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2006, 15.9583794777782, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 15.9658246117645, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 15.978097373032, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 16.3921288336898, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 16.7389635678672, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 16.9802802706872, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 17.3330623428855, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 17.5882740469565, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'EU28', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 17.4311657720621, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'COL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2001, 17.8951238583685, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'COL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2002, 18.9074869365277, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'COL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2003, 16.8388666808436, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'COL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2004, 16.8653348160883, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'COL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2005, 15.5788204995961, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'COL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2007, 14.5115195598029, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'COL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2008, 13.9724957976488, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'COL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2009, 15.0879803245885, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'COL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2010, 16.260269226656, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'COL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2011, 16.9097856585794, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'COL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2012, 17.9638813351573, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'COL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2013, 17.7889225746876, ''
+  );
+/* INSERT QUERY */
+INSERT INTO part_time_employment(
+  LOCATION, INDICATOR, SUBJECT, MEASURE,
+  FREQUENCY, TIME, Value, Flag_Codes
+)
+VALUES
+  (
+    'COL', 'PARTEMP', 'TOT', 'PC_EMP',
+    'A', 2014, 16.4884932543164, ''
+  );
