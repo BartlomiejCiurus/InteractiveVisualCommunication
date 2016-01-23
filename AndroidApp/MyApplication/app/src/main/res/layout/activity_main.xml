@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        tools:context="com.itw.georesearch.activities.MainActivity">
+
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:background="#ffffff"
+            android:baselineAligned="false"
+            android:orientation="vertical"
+            android:weightSum="1">
+
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="496dp"
+                android:layout_height="127dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/logo" />
+
+            <TextView
+                android:id="@+id/indentTitle"
+                android:layout_width="75dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/indent.title"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <Spinner
+                android:id="@+id/indentSpinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#89d580"
+                android:clickable="false"
+                android:spinnerMode="dropdown"
+                android:visibility="visible" />
+
+            <TextView
+                android:id="@+id/perspectiveTitle"
+                android:layout_width="128dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="0.07"
+                android:text="@string/perspective.title"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:visibility="invisible" />
+
+            <Spinner
+                android:id="@+id/perspectiveSpinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#89d580"
+                android:clickable="false"
+                android:spinnerMode="dropdown"
+                android:visibility="invisible" />
+
+            <TextView
+                android:id="@+id/frequencyTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="Frequency"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:visibility="invisible" />
+
+            <Spinner
+                android:id="@+id/frequencySpinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:background="#89d580"
+                android:clickable="false"
+                android:spinnerMode="dropdown"
+                android:visibility="invisible" />
+
+            <TextView
+                android:id="@+id/fromDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="From:"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:visibility="invisible" />
+
+            <Spinner
+                android:id="@+id/fromDateSpinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:background="#89d580"
+                android:clickable="false"
+                android:spinnerMode="dropdown"
+                android:visibility="invisible" />
+
+            <TextView
+                android:id="@+id/toDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/linearLayout"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_horizontal"
+                android:text="To:"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:visibility="invisible" />
+
+            <Spinner
+                android:id="@+id/toDateSpinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/submit"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_horizontal"
+                android:background="#89d580"
+                android:clickable="false"
+                android:spinnerMode="dropdown"
+                android:visibility="invisible" />
+
+            <TextView
+                android:id="@+id/firstCountry"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/linearLayout"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_horizontal"
+                android:text="First country:"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:visibility="invisible" />
+
+            <Spinner
+                android:id="@+id/firstCountrySpinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/submit"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_horizontal"
+                android:background="#89d580"
+                android:clickable="false"
+                android:spinnerMode="dropdown"
+                android:visibility="invisible" />
+
+            <TextView
+                android:id="@+id/secondCountry"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/linearLayout"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_horizontal"
+                android:text="Second country:"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:visibility="invisible" />
+
+            <Spinner
+                android:id="@+id/secondCountrySpinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/submit"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_horizontal"
+                android:background="#89d580"
+                android:clickable="false"
+                android:spinnerMode="dropdown"
+                android:visibility="invisible" />
+
+
+            <Button
+                android:id="@+id/submit"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/scrollView"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="57dp"
+                android:text="Submit"
+                android:visibility="visible"
+                android:layout_weight="0.50"
+                android:allowUndo="false" />
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1.83"></TableRow>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Authors: Bartłomiej Ciuruś, Aleksandra Krasnowska"
+                android:id="@+id/textView2"
+                android:layout_gravity="center_horizontal" />
+        </LinearLayout>
+
+    </RelativeLayout>
+</ScrollView>
